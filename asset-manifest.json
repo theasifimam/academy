@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/academy/static/css/main.62731e67.css",
+    "main.js": "/academy/static/js/main.2c0d6ca1.js",
+    "static/js/787.805e5e0f.chunk.js": "/academy/static/js/787.805e5e0f.chunk.js",
+    "static/media/back.webp": "/academy/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/academy/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/academy/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/academy/index.html",
+    "main.62731e67.css.map": "/academy/static/css/main.62731e67.css.map",
+    "main.2c0d6ca1.js.map": "/academy/static/js/main.2c0d6ca1.js.map",
+    "787.805e5e0f.chunk.js.map": "/academy/static/js/787.805e5e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62731e67.css",
+    "static/js/main.2c0d6ca1.js"
+  ]
+}
